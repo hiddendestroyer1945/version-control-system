@@ -11,7 +11,7 @@
     *   **SVN**: SVN is a centralized version control system that is used for version control. It is the most common version control system and is used by many small scale projects. But now it is not used much.
     *   **Mercurial**: Mercurial is a distributed version control system that is used for version control. It is the most advanced version control system and is used by many proprietary enterprise projects.
 
-*   **Installation and Configuration of Git**: Distributed version control system tool git can be installed and configured on the local machine. Git Installation and configuration have four steps. first is git installation then user name configuration then email configuration then pulling by rebase configuration.
+*   **Installation and Configuration of Git**: Distributed version control system tool git can be installed and configured on the local machine. Git Installation and configuration have five steps. first is git installation then user name configuration then email configuration then pulling by rebase configuration then check the git configuration.
 
 *   **Installation**: 
 
@@ -37,3 +37,10 @@ sudo git config --global user.email "Yor Email Id"
 ```bash
 sudo git config --global pull.rebase false
 ```
+
+*   **Check the Git Configuration**:
+
+```bash
+sudo git config --list
+```
+
