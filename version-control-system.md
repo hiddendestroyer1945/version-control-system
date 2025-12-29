@@ -1,2 +1,2 @@
 # Version Control System
-* Description: to explain what is version control system and features of that.
+**Description**: To explain what is version control system and features of that.
