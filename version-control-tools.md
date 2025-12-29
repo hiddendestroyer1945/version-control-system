@@ -21,5 +21,5 @@
 
 *   **Git Servers**: Many git servers is available in internet. The famous git servers are GitHub, GitLab, and Bitbucket.
     *   **Github**: It mostly used for open source projects. https://github.com is this server link.
-*   **Gitlab**: It mostly used for private projects. https://gitlab.com is this server link.
-*   **Bitbucket**: It is used for private projects. It's security is better than github and gitlab. https://bitbucket.org is this server link.
+    *   **Gitlab**: It mostly used for private projects. https://gitlab.com is this server link.
+    *   **Bitbucket**: It is used for private projects. It's security is better than github and gitlab. https://bitbucket.org is this server link.
