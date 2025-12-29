@@ -25,4 +25,4 @@ It's version control system learning repository. This each .md file is explainin
 
 ##  Links Are Given Bellow
 
-Click [here](version-control-system.md) to read the full tutorial of version control system explanation
+Click [here](version-control-system.md) to read the version control system explanation!
