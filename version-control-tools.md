@@ -1,5 +1,5 @@
 # Version Control System Tools
-*   **Description**: To explain the types of version controls, types of version control tools, installation of distributed version control tool git.
+*   **Description**: To explain the types of version controls, types of version control tools and installation of distributed version control tool git in local system.
 
 *   **Types of Version Controls**: Three types of version controls are there. They are Local Version Control, Centralized Version Control, and Distributed Version Control.
     *   **Local Version Control**: Local version control is a type of version control where the version control system is installed on the local machine. It is the simplest type of version control and is used for small projects.
