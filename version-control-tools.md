@@ -35,5 +35,5 @@ sudo git config --global user.email "Yor Email Id"
 *   **Pulling by Rebase Configuration**:
 
 ```bash
-sudo git config --global pull.rebase true
+sudo git config --global pull.rebase false
 ```
