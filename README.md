@@ -4,7 +4,7 @@ It's version control system learning repository. This each .md file is explainin
 
 ## Table of Contents
 
-* Version Control System 
+* Version Control System
 * Version Control System Tools
 * Version Control System Repository
 * Version Control System History
