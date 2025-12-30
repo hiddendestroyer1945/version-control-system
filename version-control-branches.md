@@ -30,3 +30,31 @@
 -   Then remote repository release feature branch's collaborators push their release feature branches in remote repository after every work request's work are completed. And informed that via discussion comment to the remote repository development management branch.
 
 -   Then if project's work are completed merging the development feature branches and release feature branch are merged into the local repository master branch. Then remote repository main branch rebase pulling in local repository master branch. Then local repository master branch merging in local repository main branch. Then local repository main branch pushing in remote repository main branch.
+
+*   **Local Repository Branches**: Explaining the local repository branches related commands.
+
+**Create the Local Repository Feature Branches**:
+
+```bash
+git branch "feature-branch-name"
+``` 
+
+**List the Local Repository Branches**:
+
+```bash
+git branch
+``` 
+
+**Checkout the One Branch to Other Branch**:
+
+```bash
+git checkout "branch name"
+```
+
+**Delete the Local Repository Feature Branches**:
+
+```bash
+git branch -d "feature-branch-name"
+```
+
+*   **Remote Repository Branches**: The remote repository branchees listing in remote repository branch drop down button. Can select the required branches from that drop-down button and access information from that specific branch. Can create the required branches in the remote repository by entering the required names in the search bar in that drop-down button and using the Create Branch button in that drop-down button.
