@@ -60,6 +60,13 @@ git diff "specific commit Id"
 ```bash
 git stash
 ```
+
+**Checkout the One Local Git History to Other Local Git History**: 
+
+```bash
+git checkout "specific commit Id"
+```
+
 **Local Git History Deleting Till Specific HEAD Point**: 
 
 ```bash
