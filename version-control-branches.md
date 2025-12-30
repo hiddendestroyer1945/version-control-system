@@ -57,4 +57,4 @@ git checkout "branch name"
 git branch -d "feature-branch-name"
 ```
 
-*   **Remote Repository Branches**: The remote repository branchees listing in remote repository branch drop down button. Can select the required branches from that drop-down button and access information from that specific branch. Can create the required branches in the remote repository by entering the required names in the search bar in that drop-down button and using the Create Branch button in that drop-down button.
+*   **Remote Repository Branches**: The remote repository branches are listing in drop down button of remote repository. Can select the required branches from that drop-down button and access data from that specific branch. Can create the required branches in the remote repository by entering the required names in the search bar in that drop-down button and using the Create Branch button in that drop-down button
