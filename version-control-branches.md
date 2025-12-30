@@ -1,5 +1,6 @@
 # Version Control Branches
 *   **Description**: To explain about the version control branches, specifications of branching, working of branches, type of branches, git branch making, git branches deleting and more related to branching.
+
 *   **Version Control Branches**: Every branches are acting like a different workspace. Every category of activity have a different branch in project.The activities of one branch does not affect other branches at all.
 *   **Version Control Branches Specifications**: Each category of activity has different branches in the project, so activities can be performed without affecting other branches. Every branches can merging for needed time of put the whole activity together.After merging can doing the activities in each specific branches. The work of each branch prior to the merge is combined in the merge, but the work done in each branch after the merge remains separate.
 *   **Version Control Branches Types**: There are two types of branches have in a every git projects. One is the main branches and other is feature branches.
