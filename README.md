@@ -32,3 +32,5 @@ Click [here](version-control-tools.md) to read the version control tools explana
 Click [here](version-control-repository.md) to read the version control repository explanation!
 
 Click [here](version-control-history.md) to read the version control history explanation!
+
+Click [here](version-control-branches.md) to read the version control branches explanation!
