@@ -2,7 +2,9 @@
 *   **Description**: To explain about the version control branches, specifications of branching, working of branches, type of branches, git branch making, git branches deleting and more related to branching.
 
 *   **Version Control Branches**: Every branches are acting like a different workspace. Every category of activity have a different branch in project.The activities of one branch does not affect other branches at all.
+
 *   **Version Control Branches Specifications**: Each category of activity has different branches in the project, so activities can be performed without affecting other branches. Every branches can merging for needed time of put the whole activity together.After merging can doing the activities in each specific branches. The work of each branch prior to the merge is combined in the merge, but the work done in each branch after the merge remains separate.
+
 *   **Version Control Branches Types**: There are two types of branches have in a every git projects. One is the main branches and other is feature branches.
     *   **Types of Main Branches**: Main branches are the primary branches of the project. There are two types of main branches. One is the main branch in remote repository, other is the master branch in local repository.
     *   **Master Branch**: Master branch is the main branch type of the local repository. It is the default branch of the local repository. It is the branch which is used for the main code of the project.
@@ -10,7 +12,8 @@
     *   **Types of Feature Branches**: Feature branches are the branches of the project. There are three types of feature branches. One is the development branches and second is hotfix branches and other is release branches.
     *   **Development Branch**: Development branch is the feature branch type of the local repository. It is the branch which is used for the development code of the project. Many development branches can be created in the local repository. Python development branch, deveop development branch, project development branch etc.
     *   **Hotfix Branch**: Hotfix branch is the feature branch type of the local repository. It is the branch which is used for the hotfixing, bugfixing, security fixing and testing code of the project. Only one hotfix branch can be created in the local repository.
-    *   **Release Branch**: Release branch is the feature branch type of the local repository. It is the branch which is used for the release code of the project and marketing code of the project. Only one release branch can be created in the local repository. 
+    *   **Release Branch**: Release branch is the feature branch type of the local repository. It is the branch which is used for the release code of the project and marketing code of the project. Only one release branch can be created in the local repository.
+
 *   **How to Use Version Control Branches**: To use version control branches, firstly make the local repository and create the local repository master branch using with initial commiting. Then master branch create the main feature branch for managing the development. Then main development feature branch create the other specific development feature branches. Then main development feature branch create the hotfix feature branch. Then main development feature branch create the release feature branch. Then local repository master branch create the remote repository and create the remote repository main branch using with initial commiting.
 
 -   Then local repository master branch adding the remote repository in local repository. Then local repository development management branch create the project guidlines document with it's history. Then local repository development management branch pushing in remote repository. Then remote repository main branch configure the feature branches collaborators. 
