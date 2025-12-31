@@ -34,3 +34,5 @@ Click [here](version-control-repository.md) to read the version control reposito
 Click [here](version-control-history.md) to read the version control history explanation!
 
 Click [here](version-control-branches.md) to read the version control branches explanation!
+
+Click [here](version-control-merging.md) to read the version control merging explanation!
