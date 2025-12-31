@@ -1,12 +1,18 @@
 # Version Control History
 *   **Description**: To explain about the version control git history, version control git primary branches, version control git Head, make the version control git history, check the version control git history, check the version control git status and more related to git history.
+
 *   **Version Control Git History**: A version control history is a stories about all files and directories in repository of a project. It is used to track changes to the files and directories, and to revert to previous versions if needed.
+
 *   **Types of Git History**: Two types of history are used for git distributed version control system. They are local history and remote history. The project is completed by having these two history work in conjunction with each other.
     *   **Local Git History**: A local history is a history that is stored on the local repository. It is used to track changes to the files and directories of local repository.
     *   **Remote Git History**: A remote history is a history that is stored on the remote server. It is used to track changes to the files and directories of remote repository.
+
 *   **Version Control Git Primary Branches**: The primary branch, called master, is the branch that is created when the create the initial commit on the local Git repository.But primary branch, called main, is the branch that is created when the create remote repository  and add the file.
+
 *   **Version Control Git Head**: The head is a pointer to the latest commit in the current branch. It is used to track the latest commit in the current branch.When create the initial commit of git local repository then Head is created.
+
 *   **Git History**: The git history creating for tracking the changes to the files and directories, and to revert to previous versions if needed. Project have a two type git history local and remote.
+
 *   **Local Git History**: The git local history creating in local git repository for tracking the changes to the files and directories, and to revert to previous versions if needed.
 
 **Local Git History Creation**: 
