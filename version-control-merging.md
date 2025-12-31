@@ -34,4 +34,8 @@
 git checkout "source-branch"
 git merge "target-branch"
 ``` 
-    
+**Recursive Merging**: 
+```bash
+git checkout "source-branch"
+git merge --no-ff"target-branch"
+```    
