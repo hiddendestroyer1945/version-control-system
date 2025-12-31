@@ -38,4 +38,38 @@ git merge "target-branch"
 ```bash
 git checkout "source-branch"
 git merge --no-ff"target-branch"
-```    
+``` 
+**Octopus Merging**: 
+```bash
+git checkout "source-branch"
+git merge -s octopus "1st target-branch" "2nd target-branch"
+``` 
+**Subtree Merging**: 
+```bash
+git checkout "source-branch"
+git remote add "target repository name" "target repository path/"
+git subtree add --prefix="target repository name" "target repository name in local repository" "target-branch in target repository"
+```
+ **Subtree With Squash Merging**: 
+```bash
+git checkout "source-branch"
+git remote add "target repository name" "target repository path/"
+git subtree add --prefix="target repository name" "target repository name in local repository" "target-branch in target repository" --squash
+```  
+**Squash Merging**: 
+```bash
+git checkout "source-branch"
+git merge --squash "target-branch"
+``` 
+**Ours Merging**: 
+```bash
+git checkout "source-branch"
+git merge -s ours "target-branch"
+``` 
+**Checking Merge Result Using Log**: 
+```bash
+git checkout "source-branch"
+git log
+``` 
+
+*   **Remote Repository Merging**: After get the new branch in remote repository create and submit the pull request, then merging after select the source branch and target branch.
