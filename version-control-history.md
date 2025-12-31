@@ -64,7 +64,7 @@ git stash
 **Checkout the One Local Git History to Other Local Git History**: 
 
 ```bash
-git checkout "specific commit Id"
+git checkout -f "specific commit Id"
 ```
 
 **Local Git History Deleting Till Specific HEAD Point**: 
