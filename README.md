@@ -11,7 +11,7 @@ It's version control system learning repository. This each .md file is explainin
 * Version Control System Branches
 * Version Control System Merging
 * Version Control System Collaboration
-* Version Control System Sponsorship
+* Version Control System Sponsorship Setting
 * Version Control System Sensitive Data Securing
 * Version Control System Storage of Rememberings
 * Version Control System Automation
