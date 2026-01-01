@@ -35,4 +35,4 @@ Click [here](version-control-merging.md) to read the version control merging exp
 
 Click [here](version-control-collaboration.md) to read the version control collaboration explanation!
 
-Click [here](version-control-sponsorhsip-setting.md) to read the version control sponsorship explanation!
+Click [here](version-control-sponsorship-setting.md) to read the version control sponsorship setting explanation!
