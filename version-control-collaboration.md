@@ -108,4 +108,6 @@ git clone --branch="remote repository branch name" "remote repository link"
 git checkout "branch name"
 ```
 
-*   **Remote Repository Collaboration**: To set up collaborators in the project's remote repository, go to the project's remote repository's settings, click on Collaborators, after Manage Access, click on the Add People button, enter the collaborator's user account name in the search bar, click on the profile that appears, and then click on the Add button.
+*   **Remote Repository Collaboration**: To set up collaborators for team collaboration in a project's remote repository, go to the project's remote repository's settings, click on the Collaborators > Manage Access > Add People button, enter the collaborator's user account name in the search bar, click on the profile you get, and then click on the Add button.
+
+-   To make the remote repository of an open source project available to the collaborators' Git server profile, enter the required open source project in the search bar of the specified Git server profile, click Search All, click the specified repository, access that specified repository, click the Fork drop-down button, click Create New Fork in the drop-down menu, and click the Create Fork button.
