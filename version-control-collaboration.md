@@ -57,6 +57,7 @@
     *   **Reduce Risk of Conflicts**: Collaboration allows for reducing the risk of conflict by allowing collaborators to work independently on the project without affecting the main activities of the project, as each type of project activity has its own feature branch. Additionly collaboration allows to It also ensure that the activities in the feature branches for the project's proposed activities does not contain errors or bugs before merging it into the main branch of the project. Collaboration allows collaborators to track project activities by creating a history for each activity in the project and, if an activity is errored, to return to the history of the activity immediately preceding that activity.
 
 *   **Local Repository Collaboration**: Explaining the local repository branches related collaboration commands.
+
 **Add the Remote Repository in Local Repository**
 ```bash
 git checkout "master"
