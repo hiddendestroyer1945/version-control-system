@@ -34,3 +34,5 @@ Click [here](version-control-branches.md) to read the version control branches e
 Click [here](version-control-merging.md) to read the version control merging explanation!
 
 Click [here](version-control-collaboration.md) to read the version control collaboration explanation!
+
+Click [here](version-control-sponsorhsip-setting.md) to read the version control sponsorship explanation!
