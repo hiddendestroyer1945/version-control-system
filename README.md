@@ -38,3 +38,5 @@ Click [here](version-control-collaboration.md) to read the version control colla
 Click [here](version-control-sponsorship-setting.md) to read the version control sponsorship setting explanation!
 
 Click [here](version-control-sensetive-data-securing.md) to read the version control sensetive data securing explanation!
+
+Click [here](version-control-remembrances-storage.md) to read the version control remembrances storage tool gist explanation!
