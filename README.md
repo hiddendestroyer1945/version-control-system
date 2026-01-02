@@ -13,7 +13,7 @@ It's version control system learning repository. This each .md file is explainin
 * Version Control System Collaboration
 * Version Control System Sponsorship Setting
 * Version Control System Sensitive Data Securing
-* Version Control System Storage of Rememberings
+* Version Control System Storage of Remembrances
 * Version Control System Automation
 * Version Control System Project Management
 * Version Control System Workflow
