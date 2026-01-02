@@ -36,3 +36,5 @@ Click [here](version-control-merging.md) to read the version control merging exp
 Click [here](version-control-collaboration.md) to read the version control collaboration explanation!
 
 Click [here](version-control-sponsorship-setting.md) to read the version control sponsorship setting explanation!
+
+Click [here](version-control-sensetive-data-securing.md) to read the version control sensetive data securing explanation!
