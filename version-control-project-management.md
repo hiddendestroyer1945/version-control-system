@@ -1,5 +1,5 @@
 # Version Control Project Management
-*   **Description**: To explain about the version control project management, version control project management tools, prd building, srs building, tdd building, test plan building, tsr building,sow register building, work request building, work request reply and work statement.
+*   **Description**: To explain about the version control project management, version control project management tools, prd building, srs building, tdd building, test plan building, tsr building,sow register building, work request building, building work request reply and building work statement.
 
 *   **Version Control Project Management**: Project management is the application of tools and techniques to activities to meet project requirements. Software development, hardware development, and cybersecurity activities are done as projects on Git servers. Such projects are managed by the Development Management Feature Branch. Development management feature branch manages projects using certain strategies and the files that implement those strategies.
 
@@ -228,4 +228,13 @@
         -   **TR-1**: This explains the project's work technical requirement 1.
         -   **TR-2**: This explains the project's work technical requirement 2.
         -   **TR-3**: This explains the project's work technical requirement 3.
+    
+*   **Building Work Request Reply**: Work Request Reply is built by the specific developer.
+    -   **ID**: This explains the project's work request reply ID.
+    -   **Title**: This explains the project's work request reply title.
+    -   **Status**: This explains the project's work request's work status.
+    -   **Branch**: This explains the project's work doing branch.
+    -   **Completion**: This explains the project's work completion percentage.
+    -   **Progress Note**: This explains the project's work progress note.
+    -   **Next Action**: This explains the project's work next action.
     
