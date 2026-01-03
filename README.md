@@ -14,10 +14,9 @@ It's version control system learning repository. This each .md file is explainin
 * Version Control System Sponsorship Setting
 * Version Control System Sensitive Data Securing
 * Version Control System Storage of Remembrances
-* Version Control System Automation
 * Version Control System Project Management
-* Version Control System Workflow
 * Version Control System Markdown Files
+* Version Control System Automation
 
 ##  Links Are Given Bellow
 
@@ -40,3 +39,9 @@ Click [here](version-control-sponsorship-setting.md) to read the version control
 Click [here](version-control-sensetive-data-securing.md) to read the version control sensetive data securing explanation!
 
 Click [here](version-control-remembrances-storage.md) to read the version control remembrances storage tool gist explanation!
+
+Click [here](version-control-project-management.md) to read the version control project management explanation!
+
+Click [here](version-control-markdown-files.md) to read the version control markdown files explanation!
+
+Click [here](version-control-automation.md) to read the version control automation explanation!
