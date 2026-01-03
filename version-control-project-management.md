@@ -61,7 +61,7 @@
         -   **OS**: This explains what operating system is required to operate this product.
         -   **Dependencies**: This explains what dependencies are required to operate this product.
     3.  **Functional Requirements**: The following explains the features required for this product.
-    | ID   | Feature | Description |   Priority     | 
+    | ID | Feature | Description | Priority | 
     |------|---------|-------------|----------------|
     | FR-1 | Feature 1 | Description 1 | Priority 1 |
     | FR-2 | Feature 2 | Description 2 | Priority 2 |
