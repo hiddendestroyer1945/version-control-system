@@ -13,6 +13,7 @@
     *   **Work Request**: A work request is a document that outlines each specific task to be performed for a project. It is used to define the scope of the proposed work and ensure that the work is completed on time and within budget.
     *   **Work Request Reply**: A work request reply is a document that outlines the response to a work request. 
     *   **Work Statement**: A work statement is a document that outlines the work completed on a project. It is used to ensure that each task completed on the project was completed on time and within budget.
+
 *   **Building PRD**: PRD is built by the Project Manager.
     -   **Files**: This explains product development files.
     -   **Name**: This explains product name.
@@ -34,6 +35,7 @@
     -   **Libraries**: This explains which libraries are used for this product.
     -   **Database**: This explains which database is used for this product.
     -   **Server**: This explains which type server is used for this product.
+    -   **Version Control Server**: This explains which type version control server is used for this product.
     -   **Security**: This explains what security is provided for this product.
     
 
@@ -42,3 +44,46 @@
     -   **Interface**: This explains what interface the customer needs to use this product.
     -   **Packages**: This explains what packages the customer needs to use this product.
     
+*   **Building SRS**: SRS is built by the Software Engineer.
+    -   **Project Name**: This explains project name.
+    -   **Author**: This explains project author.
+    -   **Version**: This explains project version.
+    -   **Date**: This explains project date.
+    1.  **Introduction**: 
+    -   **Purpose**: It explains what this project is, what the purpose of this document is, and what the requirements are for the development teams.
+    -   **Scope**: It explains what the goals of this product are.
+    2.  **Overall Description**: 
+    -   **User Classes and Characteristics**: 
+        -   **Admin**: This explains what permissions the admin user has in this product.
+        -   **Standard User**: This explains what permissions the standard user has in this product.
+    -   **Operating Environment**: 
+        -   **Language**: This explains what programming language is required to operate this product. 
+        -   **OS**: This explains what operating system is required to operate this product.
+        -   **Dependencies**: This explains what dependencies are required to operate this product.
+    3.  **Functional Requirements**: The following explains the features required for this product.
+    | ID   | Feature | Description |   Priority     | 
+    |------|---------|-------------|----------------|
+    | FR-1 | Feature 1 | Description 1 | Priority 1 |
+    | FR-2 | Feature 2 | Description 2 | Priority 2 |
+    | FR-3 | Feature 3 | Description 3 | Priority 3 |
+    4.   **Non-Functional Requirements**: This explains how this product works.
+    -   **Performance**: 
+        -   **Response Time**: This explains the minimum time required for this product to process its data.
+        -   **Throughput**: This explains how many requests this product can handle at the same time.
+        -   **Scalability**: This explains how this product can handle more requests.
+    -   **Security**: 
+        -   **Encryption**: This explains how this product encrypts its data or password.
+        -   **Privacy**: This explains how this product protects its data.
+        -   **Authentication**: This explains how this product authenticates users.
+    -   **Reliability**: 
+        -   **Availability**: This explains how many times this product is available to users.
+    5.   **External Interface Requirements**: 
+    -   **User Interfaces**: This explains which interfaces this product operates on.
+    -   **Software Interfaces**: 
+        -   **Database**: This explains which databases this product operates on.
+        -   **API**: This explains which APIs this product operates on.
+        -   **Services**: This explains which services this product operates on.
+        -   **Server**: This explains which servers this product operates on.
+        -   **Version Control Server**: This explains which version control servers is used for this product development.
+    6.   **Appendix**: 
+    -   **Definition**: The definition of this document is given in.
