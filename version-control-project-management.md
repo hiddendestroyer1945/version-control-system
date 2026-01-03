@@ -131,4 +131,40 @@
         -   **Usability Test**: This explains the usability test.
         -   **Edge Case Test**: This explains the edge case test.
     -   **Implementation Checklist**: This explains the implementation checklist using the 1,2,3 format.
+*   **Building Test Plan**: Test plan is built by the Project Manager.
+    -   **Project Name**: This explains the project name.
+    -   **Version**: This explains the version of the project.
+    -   **Status**: This explains the status of the project.
+    -   **QA Lead**: This explains the QA lead of the project.
+    1.  **Introduction**: This explains the introduction of the test plan. and objectives of the test plan.
+    2.  **Test Strategy**: This explains the test approach.
+        -   **Level-1**: This explains the test environment.
+        -   **Level-2**: This explains the test environment.
+        -   **Level-3**: This explains the test environment.
+    -   **Scope of Testing**: 
+        -   **Scope-1**: This explains the test environment.
+        -   **Scope-2**: This explains the test environment.
+        -   **Scope-3**: This explains the test environment.
+    3.  **Test Environment**: 
+        -   **OS**: This explains the operating system.
+        -   **Language**: This explains the programming language.
+        -   **Testing Framework**: This explains the test framework.
+        -   **Database**: This explains the database.
+    4.  **Test Cases**: 
+        -   **Test Case-1**: This explains the test case.
+        -   **Test Case-2**: This explains the test case.
+    5.  **Pass/Fail Criteria**:
+        -   **Pass**: This explains the pass criteria.
+        -   **Conditional Pass**: This explains the conditional pass criteria.
+        -   **Fail**: This explains the fail criteria.
+    6.  **Bug Reporting Process**: This explains the bug reporting process.
+        -   **Logistics**: This explains the logistics of the bug reporting process.
+        -   **Scope**: This explains the scope of the bug reporting process.
+        -   **Traceability**: This explains the traceability of the bug reporting process.
+*   **Building TSR**: TSR is built by the QA Lead.
+        
+        
+    
+        
+        
     
