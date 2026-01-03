@@ -237,4 +237,24 @@
     -   **Completion**: This explains the project's work completion percentage.
     -   **Progress Note**: This explains the project's work progress note.
     -   **Next Action**: This explains the project's work next action.
+*   **Building Work Statement**: Work Statement is built by the Project Manager to explain the project's work status for client.
+    -   **ID**: This explains the project's work request ID.
+    -   **Project Name**: This explains the project's name.
+    -   **Client**: This explains the project's client name.
+    -   **Project Manager**: This explains the project's manager name.
+    -   **Date**: This explains the project's this statement date.
+    -   **Executive Summary**: This explains the project's this work's executive summary.
+    -   **Scope of Work**: This explains the project's this work's scope of work.
+        -   **Piller-1**: This explains the project's this work's scope of work pillar 1.
+        -   **Piller-2**: This explains the project's this work's scope of work pillar 2.
+        -   **Piller-3**: This explains the project's this work's scope of work pillar 3.
+    -   **Deliverables**: This explains the project's this work's deliverables.
+    -   **Timeline**: 
+        -   **Phase-1**: This explains the project's this work's phase 1 timeline.
+        -   **Phase-2**: This explains the project's this work's phase 2 timeline.
+        -   **Phase-3**: This explains the project's this work's phase 3 timeline.
+    -   **Success Criteria**: This explains the project's this work's success criteria.
+        
+    
+    
     
