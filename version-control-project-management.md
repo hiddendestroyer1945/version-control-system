@@ -201,7 +201,11 @@
 
 |   ID   |   Title   |   Team   |   Branch   |   Status   |   Start   |   End    |   Actual End   |   Deliverables   |
 | --   | --        | --       | --         | --         | --        | --     | --           | --               |
-| sw-01| create repository | dev | main | in progress | 2026-01-01 | 2026-01-02 | 2026-01-02 | repository created |  
+| sw-01| create repository | dev | main | in progress | 2026-01-01 | 2026-01-02 | 2026-01-02 | repository created |
+| sw-02| create README.md | dev | main | in progress | 2026-01-01 | 2026-01-02 | 2026-01-02 | README.md created |
+| sw-03| create .gitignore | dev | main | in progress | 2026-01-01 | 2026-01-02 | 2026-01-02 | .gitignore created |
+| sw-04| create .gitignore | dev | main | in progress | 2026-01-01 | 2026-01-02 | 2026-01-02 | .gitignore created |
+
 
 
 
