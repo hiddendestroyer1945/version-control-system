@@ -85,3 +85,50 @@
         -   **Version Control Server**: This explains which version control servers is used for this product development.
     6.   **Appendix**: 
     -   **Definition**: The definition of this document is given in.
+*   **Building TDD**: TDD is built by the Project Manager.
+    -   Based on the PRD located at './prd'
+    -   **Project Overviw**: This explains the project overview.
+    -   **Data Structure**: 
+        -   **Data Flow**: This explains the data flow.
+        -   **Data Storage**: This explains the data storage.
+    -   **Strings**: This explains the project strings.
+    -   **File Design**: 
+        -   **File Structure**: This explains the file structure.
+        -   **File Organization**: This explains the file organization.
+        -   **File Naming**: This explains the file naming.
+        -   **File Permissions**: This explains the file permissions.
+        -   **Functionalities of Files**: This explains the functionality of files.
+    -   **Runtime Process**: 
+        -   **Program Initialization**: This explains the program initialization process.
+        -   **User Interaction**: This explains the program interaction process(user input, user output, process).
+        -   **Program Termination**: This explains the program termination process.
+        
+    -   **Error Handling**: 
+        -   **Error Types**: This explains the error types.
+        -   **Input Validation**: This explains the input validation.
+        -   **Output Validation**: This explains the output validation.
+        -   **Exception Handling**: This explains the exception handling.
+        -   **Keyboard Interrupt**: This explains the keyboard interrupt.
+        -   **EOF Error**: This explains the end of file error.
+        -   **Encoding/Decoding Error**: This explains the encoding/decoding error.
+        -   **Memory Constraint Error**: This explains the memory constraint error.
+        -   **File Not Found Error**: This explains the file not found error.
+        -   **File Permission Error**: This explains the file permission error.
+        -   **Data Type Error**: This explains the data type error.
+        -   **Value Error**: This explains the value error.
+        -   **Key Error**: This explains the key error.
+        -   **Index Error**: This explains the index error.
+        -   **Exit Code Error**: This explains the exit code error.
+    -   **Error Handling Summary**: This explains the error handling summary.
+    -   **Test Scenarios**: 
+        -   **Unit Test**: This explains the unit test.
+        -   **Functional Test**: This explains the functional test.
+        -   **Integration Test**: This explains the integration test.
+        -   **System Test**: This explains the system test.
+        -   **Acceptance Test**: This explains the acceptance test.
+        -   **Performance Test**: This explains the performance test.
+        -   **Security Test**: This explains the security test.
+        -   **Usability Test**: This explains the usability test.
+        -   **Edge Case Test**: This explains the edge case test.
+    -   **Implementation Checklist**: This explains the implementation checklist.
+    
