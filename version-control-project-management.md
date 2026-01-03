@@ -130,5 +130,5 @@
         -   **Security Test**: This explains the security test.
         -   **Usability Test**: This explains the usability test.
         -   **Edge Case Test**: This explains the edge case test.
-    -   **Implementation Checklist**: This explains the implementation checklist.
+    -   **Implementation Checklist**: This explains the implementation checklist using the 1,2,3 format.
     
