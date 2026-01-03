@@ -19,4 +19,26 @@
     -   **Version**: This explains product version.
     -   **Target Users**: This explains product targeted users and uses.
     -   **Goal**: This explains product goal.
+
+    -   **Key Requirements(User Stories)**:
+    -   **USR-1**: From the customer's perspective, each of the requirements of this product is explained in the form of USR-1 and USR-2.
+
+    -   **Functional Requirements(Program Logic)**: 
+    -   **FR-1**: Each function required for this product is described in the form of FR-1 and FR-2.
+
+    -   **Technical Requirements**: 
+    -   **Programming Language**: This explains in which programming language this product is developed.
+    -   **Environment**: This explains in which environment this product can be used.
+    -   **Tools**: This explains which tools are used for this product.
+    -   **Services**: This explains which services are used for this product.
+    -   **Libraries**: This explains which libraries are used for this product.
+    -   **Database**: This explains which database is used for this product.
+    -   **Server**: This explains which type server is used for this product.
+    -   **Security**: This explains what security is provided for this product.
+    
+
+    -   **User Requirements**: 
+    -   **Distribution**: This explains what operating system the customer needs to use this product.
+    -   **Interface**: This explains what interface the customer needs to use this product.
+    -   **Packages**: This explains what packages the customer needs to use this product.
     
