@@ -217,11 +217,15 @@
 | sw-04| create .gitignore | dev | main | in progress | 2026-01-01 | 2026-01-02 | 2026-01-02 | .gitignore created |
 
 
-
-
-        
-        
-    
-        
-        
+*   **Building Work Request**: Work Request is built by the Project Manager.
+    -   **ID**: This explains the project's work request ID.
+    -   **Title**: This explains the project's work request title.
+    -   **Team**: This explains the project's work doing team.
+    -   **Branch**: This explains the project's work doing branch.
+    -   **Priority**: This explains the project's work priority.
+    -   **Description**: This explains the project's work description.
+    -   **Technical Requirements**: This explains the project's work technical requirements of this specific work.
+        -   **TR-1**: This explains the project's work technical requirement 1.
+        -   **TR-2**: This explains the project's work technical requirement 2.
+        -   **TR-3**: This explains the project's work technical requirement 3.
     
