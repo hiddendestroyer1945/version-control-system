@@ -61,9 +61,13 @@
         -   **OS**: This explains what operating system is required to operate this product.
         -   **Dependencies**: This explains what dependencies are required to operate this product.
     3.  **Functional Requirements**: The following explains the features required for this product.
-    -  Fr-1: Feature 1: Description1: Priority1.
-    -  Fr-2: Feature 2: Description2: Priority2.
-    -  Fr-3: Feature 3: Description3: Priority3.
+
+
+    |  ID  |  Feature  |  Description  |  Priority  |
+    | ---- | --------- | ------------- | ---------- |
+    | 01   | Feature 1 | Description 1 | High       |
+    | 02   | Feature 2 | Description 2 | Medium     |
+    | 03   | Feature 3 | Description 3 | Low        |
     4.   **Non-Functional Requirements**: This explains how this product works.
     -   **Performance**: 
         -   **Response Time**: This explains the minimum time required for this product to process its data.
@@ -192,12 +196,6 @@
     7.  **Recomendations**: This explains the recommendations of the test report.
     8.  **Attachments**: This explains the attachments of the test report.
 
-
-    | ID | Name | Description |
-    | -- | ---- | ----------- |
-    | 01 | tom  | Manager     |
-    | 02 | roy  | ceo         |
-    
 
         
         
