@@ -197,7 +197,17 @@
     8.  **Attachments**: This explains the attachments of the test report.
 
 *   **Building SOW Register**: SOW Register is built by the Project Manager.
-
+    -   **ID**: This explains the project's work request ID.
+    -   **Title**: This explains the project's work request title.
+    -   **Team**: This explains the project's work doing team.
+    -   **Branch**: This explains the project's work doing branch.
+    -   **Status**: This explains the project's work status.
+    -   **Start**: This explains the project's work start date.
+    -   **End**: This explains the project's work end date.
+    -   **Actual End**: This explains the project's work actual end date.
+    -   **Deliverables**: This explains the project's work deliverables.
+    
+**Sample SOW Register**
 
 |   ID   |   Title   |   Team   |   Branch   |   Status   |   Start   |   End    |   Actual End   |   Deliverables   |
 | --   | --        | --       | --         | --         | --        | --     | --           | --               |
