@@ -162,6 +162,37 @@
         -   **Scope**: This explains the scope of the bug reporting process.
         -   **Traceability**: This explains the traceability of the bug reporting process.
 *   **Building TSR**: TSR is built by the QA Lead.
+    -   **Project Name**: This explains the project name.
+    -   **Date of Report**: This explains the date of report.
+    -   **Test Cycle**: This explains the test cycle.
+    -   **Executed By**: This explains the executed by.
+    -   **Status**: This explains the status of the test(passed/failed).
+    1.   **Executive Summary**: This explains the test summary.
+        -   **Overall Result**: This explains the test result.
+    2.  **Test Execution Statistics**: This explains the test execution statistics.
+        -   **Total Tests**: This explains the total number of tests.
+        -   **Passed Tests**: This explains the number of passed tests.
+        -   **Failed Tests**: This explains the number of failed tests.
+        -   **Conditional Pass Tests**: This explains the number of conditional pass tests.
+    3.  **Detailed Test Results by Module**: 
+        -   **Module-1**: This explains the module 1 test results.
+        -   **Module-2**: This explains the module 2 test results.
+        -   **Module-3**: This explains the module 3 test results.
+    4.  **Defect(Bug) Report**: This explains the defect report.
+        -   **Defect-1**: This explains the defect 1 report.
+        -   **Defect-2**: This explains the defect 2 report.
+        -   **Defect-3**: This explains the defect 3 report.
+    5.  **Environment Details**: This explains the environment details.
+        -   **OS**: This explains the operating system.
+        -   **Language**: This explains the programming language.
+        -   **Testing Framework**: This explains the test framework.
+        -   **Database**: This explains the database.
+        -   **Browser**: This explains the browser.
+    6.  **Conclusion**: This explains the conclusion of the test report.
+    7.  **Recomendations**: This explains the recommendations of the test report.
+    8.  **Attachments**: This explains the attachments of the test report.
+    
+
         
         
     
