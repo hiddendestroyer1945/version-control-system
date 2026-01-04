@@ -1,7 +1,8 @@
 # Version Control Markdown Scripting
 *   **Description**: To explain about the markdown in version control,  Formates of markdown scripting and html scripting using in markdown scripting.
+
 *   **Markdown**: Markup is a lightweight scripting language that can be scripted very easily. Even its scripting codes can be read and understood very easily. It is used to create files that distribute information on Git servers. HTML scripting can also be used in conjunction with it.
-*   
+
 *   **Markdown Formates**: The following explains the Markdown formats and their uses for scripting Markdown files created with the .md extension.
     *   **Headings**: Headings are used to create headings in Markdown files.
 
