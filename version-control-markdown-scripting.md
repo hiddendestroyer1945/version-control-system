@@ -45,7 +45,7 @@
     ```text
     ```Code Text```
     ```   
-    -   If you put three ` at either end of a text, that text will appear as code text. But at the beginning of this, you need to specify which code this is. Like ```text, ```bash, ```javascript
+    -   If you put three ` at either end of a text, that text will appear as code text. But at the beginning of this, you need to specify which code this is. Like ```javascript.  In this way, if it is JavaScript, you should enter JavaScript, if it is Bash script, you should enter Bash, if it is Python, you should enter Python, and if it is Text, you should enter text.
     <p style="line-height:2.0;"></p>
 
     *   **Blockquote**: Blockquote is used to create blockquote in Markdown files.
