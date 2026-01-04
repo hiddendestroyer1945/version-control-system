@@ -170,3 +170,12 @@
     <img src="Image URL" alt="Image name" width="100" height="100">
     ```    
     -   If you put <img src="Image URL" alt="Image name" width="100" height="100"> at the beginning of a text and </img> at the end of a text, that image will appear. The width and height are the width and height of the image. The default width and height is 100. You can increase or decrease the width and height by increasing or decreasing the number after width and height. The alt is the image naming section. The src is the image URL section.
+    <p style="line-height:2.0;"></p>
+    
+    *   **Video Linking**: HTML video linking are used to create video linking in Markdown files.
+    
+    ```text
+    <iframe width="560" height="315" src="Video URL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    ```    
+    -   If you put <iframe width="560" height="315" src="Video URL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> at the beginning of a text and </iframe> at the end of a text, that video will appear. The width and height are the width and height of the video. The default width and height is 560 and 315. You can increase or decrease the width and height by increasing or decreasing the number after width and height. The src is the video URL section. The frameborder is the frameborder of the video. The allow is the allow of the video. The allowfullscreen is the allowfullscreen of the video. The frameborder is the frameborder of the video. The allow is the allow of the video. The allowfullscreen is the allowfullscreen of the video. 
+    
