@@ -30,8 +30,24 @@
     *Italic Text*
     ```
     -   If you put one * at either end of a text, that text will appear as italic text.
+    <p style="line-height:2.0;"></p>
+
     *   **Strikethrough**: Strikethrough is used to create strikethrough text in Markdown files.
+    
+    ```text
+    ~Strikethrough Text~
+    ```
+    -   If you put two ~'s at either end of a text, that text will appear as strikethrough text.
+    <p style="line-height:2.0;"></p>
+    
     *   **Code**: Code is used to create code in Markdown files.
+    
+    ```text
+    ```Code Text```
+    ```   
+    -   If you put three ` at either end of a text, that text will appear as code text.
+    <p style="line-height:2.0;"></p>
+
     *   **Blockquote**: Blockquote is used to create blockquote in Markdown files.
     *   **List**: List is used to create list in Markdown files.
     *   **Link**: Link is used to create link in Markdown files.
