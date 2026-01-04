@@ -49,6 +49,13 @@
     <p style="line-height:2.0;"></p>
 
     *   **Blockquote**: Blockquote is used to create blockquote in Markdown files.
+
+    ```text
+       > Blockquote Text
+    ```
+    -   If you put > at the beginning of a text, that text will appear as blockquote text. Blockquote is used for specifying the important text.
+    <p style="line-height:2.0;"></p>
+    
     *   **List**: List is used to create list in Markdown files.
     *   **Link**: Link is used to create link in Markdown files.
     *   **Image**: Image is used to create image in Markdown files.
