@@ -18,6 +18,11 @@
        
     -   The "### Heading 3" heading in this is the third-level heading. After the ###, enter a tab space and then type the required heading text. This can be done up to the sixth level of heading. The number of #'s should be increased according to the level of the heading.
     *   **Bold**: Bold is used to create bold text in Markdown files.
+    
+    ```text
+    **Bold Text**
+    ```
+    -   If you put two *'s at either end of a text, that text will appear as bold text.
     *   **Italic**: Italic is used to create italic text in Markdown files.
     *   **Strikethrough**: Strikethrough is used to create strikethrough text in Markdown files.
     *   **Code**: Code is used to create code in Markdown files.
