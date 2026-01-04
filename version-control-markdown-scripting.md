@@ -23,6 +23,7 @@
     ```
     -   If you put two *'s at either end of a text, that text will appear as bold text.
     <p style="line-height:2.0;"></p>
+    
     *   **Italic**: Italic is used to create italic text in Markdown files.
        
     ```text
