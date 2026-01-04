@@ -14,7 +14,7 @@
     -   The "# Heading 1" heading in this is the top-level heading. After the #, enter a tab space and then type the required heading text.
     -   The "## Heading 2" heading in this is the second-level heading. After the ##, enter a tab space and then type the required heading text.
     -   The "### Heading 3" heading in this is the third-level heading. After the ###, enter a tab space and then type the required heading text. This can be done up to the sixth level of heading. The number of #'s should be increased according to the level of the heading.
-
+    <p style="line-height:2.0;"></p>
 
     *   **Bold**: Bold is used to create bold text in Markdown files.
     
