@@ -4,11 +4,11 @@ It's version control system learning repository. This each .md file is explainin
 
 ## Table of Contents
 
-* [introduction to VCS](version-control-system.md)
+* [Introduction to VCS](version-control-system.md)
 * [Architecture & Tools Setup](version-control-tools.md)
 * [Repository Architecture](version-control-repository.md)
 * [Git History & State](version-control-history.md)
-* [Braching Strategy](version-control-branches.md)
+* [Branching Strategy](version-control-branches.md)
 * [Merging & Conflicts Resolution](version-control-merging.md)
 * [Collaboration Workflows](version-control-collaboration.md)
 * [Open Source Sponsorship Setting](version-control-sponsorship-setting.md)
