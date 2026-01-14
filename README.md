@@ -4,41 +4,15 @@ It's version control system learning repository. This each .md file is explainin
 
 ## Table of Contents
 
-* Version Control System
-* Version Control System Tools
-* Version Control System Repository
-* Version Control System History
-* Version Control System Branches
-* Version Control System Merging
-* Version Control System Collaboration
-* Version Control System Sponsorship Setting
-* Version Control System Sensitive Data Securing
-* Version Control System Storage of Remembrances
-* Version Control System Project Management
-* Version Control System Markdown Scripting
-
-##  Links Are Given Bellow
-
-Click [here](version-control-system.md) to read the version control system explanation!
-
-Click [here](version-control-tools.md) to read the version control tools explanation!
-
-Click [here](version-control-repository.md) to read the version control repository explanation!
-
-Click [here](version-control-history.md) to read the version control history explanation!
-
-Click [here](version-control-branches.md) to read the version control branches explanation!
-
-Click [here](version-control-merging.md) to read the version control merging explanation!
-
-Click [here](version-control-collaboration.md) to read the version control collaboration explanation!
-
-Click [here](version-control-sponsorship-setting.md) to read the version control sponsorship setting explanation!
-
-Click [here](version-control-sensetive-data-securing.md) to read the version control sensitive data securing explanation!
-
-Click [here](version-control-remembrances-storage.md) to read the version control remembrances storage tool gist explanation!
-
-Click [here](version-control-project-management.md) to read the version control project management explanation!
-
-Click [here](version-control-markdown-scripting.md) to read the version control markdown scripting explanation!
+* [Version Control System](version-control-system.md)
+* [Version Control System Tools](version-control-tools.md)
+* [Version Control System Repository](version-control-repository.md)
+* [Version Control System History](version-control-history.md)
+* [Version Control System Branches](version-control-branches.md)
+* [Version Control System Merging](version-control-merging.md)
+* [Version Control System Collaboration](version-control-collaboration.md)
+* [Version Control System Sponsorship Setting](version-control-sponsorship-setting.md)
+* [Version Control System Sensitive Data Securing](version-control-sensetive-data-securing.md)
+* [Version Control System Storage of Remembrances](version-control-remembrances-storage.md)
+* [Version Control System Project Management](version-control-project-management.md)
+* [Version Control System Markdown Scripting](version-control-markdown-scripting.md)
