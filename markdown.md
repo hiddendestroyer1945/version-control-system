@@ -151,7 +151,7 @@
     *   **Font Size**: HTML font-size are used to create font size in Markdown files.
     
     ```text
-    <font size="2">Font Size Text</font>
+    <font size="2">Font Size Text></font>
     ```    
     -   If you enter text within that code, that text will appear in the specified font size specified in that code. The number after font-size is the font size of the text. The default font size is 1.0. You can increase or decrease the font size by increasing or decreasing the number after font-size. 
     <p style="line-height:2.0;"></p>
@@ -159,7 +159,7 @@
     *   **Font Color**: HTML font-color are used to create font color in Markdown files.
     
     ```text
-    <font color="red">Font Color Text</font>
+    <font color="red">Font Color Text></font>
     ```    
     -   If you enter text within that code, that text will appear in the specified font color specified in that code. The number after font-color is the font color of the text. The default font color is black. You can change the font color by changing the number after font-color. 
     <p style="line-height:2.0;"></p>
