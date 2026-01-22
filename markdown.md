@@ -167,7 +167,7 @@
     *   **Image Linking and Resizing**: HTML image linking and resizing are used to create image linking and resizing in Markdown files.
     
     ```text
-    <img src="Image URL" alt="Image name" width="100" height="100">
+    <img src="Image URL" alt="Image name" width="100" height="100"></img>
     ```    
     -  If you enter an image file name within that code, that image will appear in the MD file. The width and height are the width and height of the image. The default width and height is 100. You can increase or decrease the width and height by increasing or decreasing the number after width and height. The alt is the image naming section. The src is the image URL section.
     <p style="line-height:2.0;"></p>
