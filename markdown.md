@@ -137,7 +137,7 @@
     ```text
     <p style="line-height:2.0;"></p>
     ```
-    -   If you put <p style="line-height:2.0;"></p> at the beginning of a text, that text will appear as line height text. The number after line-height is the line height of the text. The default line height is 1.0. You can increase or decrease the line height by increasing or decreasing the number after line-height.
+    -   If you put "<p style="line-height:2.0;"></p>" at the beginning of a text, that text will appear as line height text. The number after line-height is the line height of the text. The default line height is 1.0. You can increase or decrease the line height by increasing or decreasing the number after line-height.
     <p style="line-height:2.0;"></p>
 
     *   **Underline**: HTML underline are used to create underline in Markdown files.
