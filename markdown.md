@@ -137,15 +137,15 @@
     ```text
     <p style="line-height:2.0;"></p>
     ```
-    -   If you put "<p style="line-height:2.0;"></p>" at the beginning of a text, that text will appear as line height text. The number after line-height is the line height of the text. The default line height is 1.0. You can increase or decrease the line height by increasing or decreasing the number after line-height.
+    -   If you enter this code before a text, that text will appear at the height specified in that code. The number after line-height is the line height of the text. The default line height is 1.0. You can increase or decrease the line height by increasing or decreasing the number after line-height.
     <p style="line-height:2.0;"></p>
 
     *   **Underline**: HTML underline are used to create underline in Markdown files.
     
     ```text
-    <u>Underline Text</u>
+    <u Underline Text></u>
     ```
-    -   If you put <u> at the beginning of a text and </u> at the end of a text, that text will appear as underline text. 
+    -   If you enter a text within that code, that text will appear as underlined text. 
     <p style="line-height:2.0;"></p>
 
     *   **Font Size**: HTML font-size are used to create font size in Markdown files.
@@ -153,7 +153,7 @@
     ```text
     <font size="2">Font Size Text</font>
     ```    
-    -   If you put <font size="2"> at the beginning of a text and </font> at the end of a text, that text will appear as font size text. The number after font-size is the font size of the text. The default font size is 1.0. You can increase or decrease the font size by increasing or decreasing the number after font-size. 
+    -   If you enter text within that code, that text will appear in the specified font size specified in that code. The number after font-size is the font size of the text. The default font size is 1.0. You can increase or decrease the font size by increasing or decreasing the number after font-size. 
     <p style="line-height:2.0;"></p>
 
     *   **Font Color**: HTML font-color are used to create font color in Markdown files.
@@ -161,7 +161,7 @@
     ```text
     <font color="red">Font Color Text</font>
     ```    
-    -   If you put <font color="red"> at the beginning of a text and </font> at the end of a text, that text will appear as font color text. The number after font-color is the font color of the text. The default font color is black. You can change the font color by changing the number after font-color. 
+    -   If you enter text within that code, that text will appear in the specified font color specified in that code. The number after font-color is the font color of the text. The default font color is black. You can change the font color by changing the number after font-color. 
     <p style="line-height:2.0;"></p>
 
     *   **Image Linking and Resizing**: HTML image linking and resizing are used to create image linking and resizing in Markdown files.
@@ -169,7 +169,7 @@
     ```text
     <img src="Image URL" alt="Image name" width="100" height="100">
     ```    
-    -   If you put <img src="Image URL" alt="Image name" width="100" height="100"> at the beginning of a text and </img> at the end of a text, that image will appear. The width and height are the width and height of the image. The default width and height is 100. You can increase or decrease the width and height by increasing or decreasing the number after width and height. The alt is the image naming section. The src is the image URL section.
+    -  If you enter an image file name within that code, that image will appear in the MD file. The width and height are the width and height of the image. The default width and height is 100. You can increase or decrease the width and height by increasing or decreasing the number after width and height. The alt is the image naming section. The src is the image URL section.
     <p style="line-height:2.0;"></p>
     
     *   **Video Linking**: HTML video linking are used to create video linking in Markdown files.
@@ -177,5 +177,5 @@
     ```text
     <iframe width="560" height="315" src="Video URL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     ```    
-    -   If you put <iframe width="560" height="315" src="Video URL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> at the beginning of a text and </iframe> at the end of a text, that video will appear. The width and height are the width and height of the video. The default width and height is 560 and 315. You can increase or decrease the width and height by increasing or decreasing the number after width and height. The src is the video URL section. The frameborder is the frameborder of the video. The allow is the allow of the video. The allowfullscreen is the allowfullscreen of the video. The frameborder is the frameborder of the video. The allow is the allow of the video. The allowfullscreen is the allowfullscreen of the video. 
+    -   If you enter an video file name within that code, that video will appear in the MD file. The width and height are the width and height of the video. The default width and height is 560 and 315. You can increase or decrease the width and height by increasing or decreasing the number after width and height. The src is the video URL section. The frameborder is the frameborder of the video. The allow is the allow of the video. The allowfullscreen is the allowfullscreen of the video. The frameborder is the frameborder of the video. The allow is the allow of the video. The allowfullscreen is the allowfullscreen of the video. 
     
